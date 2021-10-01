@@ -1,0 +1,16 @@
+body{
+    font-family: 'Rubik', sans-serif;
+}
+#book-details{
+    color: indigo;
+    background-color: lightgray;
+    margin: auto;
+    border-radius: 10px;
+    background-image: linear-gradient(lightblue, violet);
+}
+#title{
+    color: white;
+    background-color: indigo;
+    padding: 5px;
+    border-radius: 5px;
+}
