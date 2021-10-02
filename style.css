@@ -5,6 +5,7 @@ body{
     color: indigo;
     background-color: lightgray;
     margin: auto;
+    padding: 20px ;
     border-radius: 10px;
     background-image: linear-gradient(lightblue, violet);
 }
